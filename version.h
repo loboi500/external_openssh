@@ -1,6 +1,3 @@
-/* $OpenBSD: version.h,v 1.87 2020/05/06 20:58:01 djm Exp $ */
-
-#define SSH_VERSION	"OpenSSH_8.3"
-
-#define SSH_PORTABLE	"p1"
-#define SSH_RELEASE	SSH_VERSION SSH_PORTABLE
+version https://git-lfs.github.com/spec/v1
+oid sha256:40c169924c83534207fbcccaa78f78cab75edd7a188d7f974562a9f4cfbfc739
+size 170

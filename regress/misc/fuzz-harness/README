@@ -1,1 +1,3 @@
-This directory contains fuzzing harnesses for use with clang's libfuzzer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca55b4ee9dba92c192aca62f15949e7062d7b9f1168d799b1698da908743882b
+size 74

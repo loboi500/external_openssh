@@ -1,4 +1,3 @@
-URL: https://cdn.openbsd.org/pub/OpenBSD/OpenSSH/portable/openssh-8.3p1.tar.gz
-Version: 8.3p1
-BugComponent: 180238
-Owners: adelva, cloud-android-devs
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f6ab684591dc7679b64581f1fc5290683271f49d4c93892a4af125cf2007495
+size 150

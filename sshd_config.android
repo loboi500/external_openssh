@@ -1,5 +1,3 @@
-Protocol 2
-HostKey /data/ssh/ssh_host_rsa_key
-HostKey /data/ssh/ssh_host_dsa_key
-AuthorizedKeysFile /data/ssh/authorized_keys
-PasswordAuthentication no
+version https://git-lfs.github.com/spec/v1
+oid sha256:7209e0d9c56c62d00b75cf5f4fb2bae0da025739777d5c39013b4d95ca663593
+size 152

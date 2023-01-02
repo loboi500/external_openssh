@@ -1,17 +1,3 @@
-name: "openssh"
-description:
-    "Secure Shell (SSH) protocol client, server and utilities"
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://www.openssh.com/"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/openssh/openssh-portable"
-  }
-  version: "8.3p1"
-  last_upgrade_date { year: 2020 month: 8 day: 20 }
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb7e8390a62b461e381d30848cb8d6fd8ffe93a47c530b382d53d00de293302b
+size 355

@@ -1,20 +1,3 @@
-/* public domain */
-
-#include <stdlib.h>
-#include <stdio.h>
-#include <stdarg.h>
-#include <unistd.h>
-
-void fatal(char *fmt, ...);
-
-void
-fatal(char *fmt, ...)
-{
-	va_list ap;
-
-	va_start(ap, fmt);
-	vfprintf(stderr, fmt, ap);
-	va_end(ap);
-	fputc('\n', stderr);
-	_exit(1);
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:78619b447d49a34f3c18fe000fa7f6401387a3737af1b0b233ad69549d33cbee
+size 269
